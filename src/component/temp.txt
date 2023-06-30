@@ -1,0 +1,1067 @@
+ {/* /* Frame 3 */
+
+    position: absolute;
+    width: 1439px;
+    height: 652px;
+    left: 0px;
+    top: 91px;
+
+
+
+    /* Content */
+
+    position: absolute;
+    width: 580px;
+    height: 371px;
+    left: 175px;
+    top: 94px;
+
+
+
+    /* Title */
+
+    position: absolute;
+    width: 580px;
+    height: 214.45px;
+    left: 175px;
+    top: 94px;
+
+
+
+    /* Lorem Ipsum is simply dummy text of the printing and typesetting in ustry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s */
+
+    position: absolute;
+    width: 433px;
+    height: 62.75px;
+    left: 175px;
+    top: 245.7px;
+
+    /* text/16/regular */
+    font-family: 'Inter';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 16px;
+    line-height: 19px;
+
+    color: #FFFFFF;
+
+
+
+    /* Learn how to launch a successful podcast */
+
+    position: absolute;
+    width: 580px;
+    height: 127.7px;
+    left: 175px;
+    top: 94px;
+
+    /* Heading/Heading 1 */
+    font-family: 'Inter';
+    font-style: normal;
+    font-weight: 700;
+    font-size: 48px;
+    line-height: 58px;
+
+    color: #FFFFFF;
+
+
+
+    /* Button */
+
+    position: absolute;
+    width: 237px;
+    height: 74.86px;
+    left: 175px;
+    top: 390.14px;
+
+    /* danger */
+    background: linear-gradient(90deg, #4776E6 0%, #8E54E9 100%);
+    border-radius: 10px;
+
+
+    /* Sign up Now */
+
+    position: absolute;
+    width: 126px;
+    height: 30px;
+    left: 55px;
+    top: 19px;
+
+    /* text/20/bold */
+    font-family: 'Poppins';
+    font-style: normal;
+    font-weight: 700;
+    font-size: 20px;
+    line-height: 30px;
+    /* identical to box height */
+
+    color: #FFFFFF;
+
+
+
+    /* Group 75 */
+
+    position: absolute;
+    width: 550px;
+    height: 370px;
+    left: 774.1px;
+    top: 153.96px;
+
+
+
+    /* Ellipse 27 */
+
+    position: absolute;
+    width: 10px;
+    height: 10px;
+    left: 774.1px;
+    top: 153.96px;
+
+    /* Secondary */
+    background: #7A3199;
+
+
+    /* Ellipse 37 */
+
+    position: absolute;
+    width: 10px;
+    height: 10px;
+    left: 774.1px;
+    top: 213.96px;
+
+    /* Secondary */
+    background: #7A3199;
+
+
+    /* Ellipse 47 */
+
+    position: absolute;
+    width: 10px;
+    height: 10px;
+    left: 774.1px;
+    top: 273.96px;
+
+    /* Secondary */
+    background: #7A3199;
+
+
+    /* Ellipse 57 */
+
+    position: absolute;
+    width: 10px;
+    height: 10px;
+    left: 774.1px;
+    top: 333.96px;
+
+    /* Secondary */
+    background: #7A3199;
+
+
+    /* Ellipse 67 */
+
+    position: absolute;
+    width: 10px;
+    height: 10px;
+    left: 774.1px;
+    top: 393.96px;
+
+    /* Secondary */
+    background: #7A3199;
+
+
+    /* Ellipse 77 */
+
+    position: absolute;
+    width: 10px;
+    height: 10px;
+    left: 774.1px;
+    top: 453.96px;
+
+    /* Secondary */
+    background: #7A3199;
+
+
+    /* Ellipse 87 */
+
+    position: absolute;
+    width: 10px;
+    height: 10px;
+    left: 774.1px;
+    top: 513.96px;
+
+    /* Secondary */
+    background: #7A3199;
+
+
+    /* Ellipse 28 */
+
+    position: absolute;
+    width: 10px;
+    height: 10px;
+    left: 834.1px;
+    top: 153.96px;
+
+    /* Secondary */
+    background: #7A3199;
+
+
+    /* Ellipse 38 */
+
+    position: absolute;
+    width: 10px;
+    height: 10px;
+    left: 834.1px;
+    top: 213.96px;
+
+    /* Secondary */
+    background: #7A3199;
+
+
+    /* Ellipse 48 */
+
+    position: absolute;
+    width: 10px;
+    height: 10px;
+    left: 834.1px;
+    top: 273.96px;
+
+    /* Secondary */
+    background: #7A3199;
+
+
+    /* Ellipse 58 */
+
+    position: absolute;
+    width: 10px;
+    height: 10px;
+    left: 834.1px;
+    top: 333.96px;
+
+    /* Secondary */
+    background: #7A3199;
+
+
+    /* Ellipse 68 */
+
+    position: absolute;
+    width: 10px;
+    height: 10px;
+    left: 834.1px;
+    top: 393.96px;
+
+    /* Secondary */
+    background: #7A3199;
+
+
+    /* Ellipse 78 */
+
+    position: absolute;
+    width: 10px;
+    height: 10px;
+    left: 834.1px;
+    top: 453.96px;
+
+    /* Secondary */
+    background: #7A3199;
+
+
+    /* Ellipse 88 */
+
+    position: absolute;
+    width: 10px;
+    height: 10px;
+    left: 834.1px;
+    top: 513.96px;
+
+    /* Secondary */
+    background: #7A3199;
+
+
+    /* Ellipse 29 */
+
+    position: absolute;
+    width: 10px;
+    height: 10px;
+    left: 894.1px;
+    top: 153.96px;
+
+    /* Secondary */
+    background: #7A3199;
+
+
+    /* Ellipse 39 */
+
+    position: absolute;
+    width: 10px;
+    height: 10px;
+    left: 894.1px;
+    top: 213.96px;
+
+    /* Secondary */
+    background: #7A3199;
+
+
+    /* Ellipse 49 */
+
+    position: absolute;
+    width: 10px;
+    height: 10px;
+    left: 894.1px;
+    top: 273.96px;
+
+    /* Secondary */
+    background: #7A3199;
+
+
+    /* Ellipse 59 */
+
+    position: absolute;
+    width: 10px;
+    height: 10px;
+    left: 894.1px;
+    top: 333.96px;
+
+    /* Secondary */
+    background: #7A3199;
+
+
+    /* Ellipse 69 */
+
+    position: absolute;
+    width: 10px;
+    height: 10px;
+    left: 894.1px;
+    top: 393.96px;
+
+    /* Secondary */
+    background: #7A3199;
+
+
+    /* Ellipse 79 */
+
+    position: absolute;
+    width: 10px;
+    height: 10px;
+    left: 894.1px;
+    top: 453.96px;
+
+    /* Secondary */
+    background: #7A3199;
+
+
+    /* Ellipse 89 */
+
+    position: absolute;
+    width: 10px;
+    height: 10px;
+    left: 894.1px;
+    top: 513.96px;
+
+    /* Secondary */
+    background: #7A3199;
+
+
+    /* Ellipse 30 */
+
+    position: absolute;
+    width: 10px;
+    height: 10px;
+    left: 954.1px;
+    top: 153.96px;
+
+    /* Secondary */
+    background: #7A3199;
+
+
+    /* Ellipse 40 */
+
+    position: absolute;
+    width: 10px;
+    height: 10px;
+    left: 954.1px;
+    top: 213.96px;
+
+    /* Secondary */
+    background: #7A3199;
+
+
+    /* Ellipse 50 */
+
+    position: absolute;
+    width: 10px;
+    height: 10px;
+    left: 954.1px;
+    top: 273.96px;
+
+    /* Secondary */
+    background: #7A3199;
+
+
+    /* Ellipse 60 */
+
+    position: absolute;
+    width: 10px;
+    height: 10px;
+    left: 954.1px;
+    top: 333.96px;
+
+    /* Secondary */
+    background: #7A3199;
+
+
+    /* Ellipse 70 */
+
+    position: absolute;
+    width: 10px;
+    height: 10px;
+    left: 954.1px;
+    top: 393.96px;
+
+    /* Secondary */
+    background: #7A3199;
+
+
+    /* Ellipse 80 */
+
+    position: absolute;
+    width: 10px;
+    height: 10px;
+    left: 954.1px;
+    top: 453.96px;
+
+    /* Secondary */
+    background: #7A3199;
+
+
+    /* Ellipse 90 */
+
+    position: absolute;
+    width: 10px;
+    height: 10px;
+    left: 954.1px;
+    top: 513.96px;
+
+    /* Secondary */
+    background: #7A3199;
+
+
+    /* Ellipse 31 */
+
+    position: absolute;
+    width: 10px;
+    height: 10px;
+    left: 1014.1px;
+    top: 153.96px;
+
+    /* Secondary */
+    background: #7A3199;
+
+
+    /* Ellipse 41 */
+
+    position: absolute;
+    width: 10px;
+    height: 10px;
+    left: 1014.1px;
+    top: 213.96px;
+
+    /* Secondary */
+    background: #7A3199;
+
+
+    /* Ellipse 51 */
+
+    position: absolute;
+    width: 10px;
+    height: 10px;
+    left: 1014.1px;
+    top: 273.96px;
+
+    /* Secondary */
+    background: #7A3199;
+
+
+    /* Ellipse 61 */
+
+    position: absolute;
+    width: 10px;
+    height: 10px;
+    left: 1014.1px;
+    top: 333.96px;
+
+    /* Secondary */
+    background: #7A3199;
+
+
+    /* Ellipse 71 */
+
+    position: absolute;
+    width: 10px;
+    height: 10px;
+    left: 1014.1px;
+    top: 393.96px;
+
+    /* Secondary */
+    background: #7A3199;
+
+
+    /* Ellipse 81 */
+
+    position: absolute;
+    width: 10px;
+    height: 10px;
+    left: 1014.1px;
+    top: 453.96px;
+
+    /* Secondary */
+    background: #7A3199;
+
+
+    /* Ellipse 91 */
+
+    position: absolute;
+    width: 10px;
+    height: 10px;
+    left: 1014.1px;
+    top: 513.96px;
+
+    /* Secondary */
+    background: #7A3199;
+
+
+    /* Ellipse 32 */
+
+    position: absolute;
+    width: 10px;
+    height: 10px;
+    left: 1074.1px;
+    top: 153.96px;
+
+    /* Secondary */
+    background: #7A3199;
+
+
+    /* Ellipse 42 */
+
+    position: absolute;
+    width: 10px;
+    height: 10px;
+    left: 1074.1px;
+    top: 213.96px;
+
+    /* Secondary */
+    background: #7A3199;
+
+
+    /* Ellipse 52 */
+
+    position: absolute;
+    width: 10px;
+    height: 10px;
+    left: 1074.1px;
+    top: 273.96px;
+
+    /* Secondary */
+    background: #7A3199;
+
+
+    /* Ellipse 62 */
+
+    position: absolute;
+    width: 10px;
+    height: 10px;
+    left: 1074.1px;
+    top: 333.96px;
+
+    /* Secondary */
+    background: #7A3199;
+
+
+    /* Ellipse 72 */
+
+    position: absolute;
+    width: 10px;
+    height: 10px;
+    left: 1074.1px;
+    top: 393.96px;
+
+    /* Secondary */
+    background: #7A3199;
+
+
+    /* Ellipse 82 */
+
+    position: absolute;
+    width: 10px;
+    height: 10px;
+    left: 1074.1px;
+    top: 453.96px;
+
+    /* Secondary */
+    background: #7A3199;
+
+
+    /* Ellipse 92 */
+
+    position: absolute;
+    width: 10px;
+    height: 10px;
+    left: 1074.1px;
+    top: 513.96px;
+
+    /* Secondary */
+    background: #7A3199;
+
+
+    /* Ellipse 33 */
+
+    position: absolute;
+    width: 10px;
+    height: 10px;
+    left: 1134.1px;
+    top: 153.96px;
+
+    /* Secondary */
+    background: #7A3199;
+
+
+    /* Ellipse 43 */
+
+    position: absolute;
+    width: 10px;
+    height: 10px;
+    left: 1134.1px;
+    top: 213.96px;
+
+    /* Secondary */
+    background: #7A3199;
+
+
+    /* Ellipse 53 */
+
+    position: absolute;
+    width: 10px;
+    height: 10px;
+    left: 1134.1px;
+    top: 273.96px;
+
+    /* Secondary */
+    background: #7A3199;
+
+
+    /* Ellipse 63 */
+
+    position: absolute;
+    width: 10px;
+    height: 10px;
+    left: 1134.1px;
+    top: 333.96px;
+
+    /* Secondary */
+    background: #7A3199;
+
+
+    /* Ellipse 73 */
+
+    position: absolute;
+    width: 10px;
+    height: 10px;
+    left: 1134.1px;
+    top: 393.96px;
+
+    /* Secondary */
+    background: #7A3199;
+
+
+    /* Ellipse 83 */
+
+    position: absolute;
+    width: 10px;
+    height: 10px;
+    left: 1134.1px;
+    top: 453.96px;
+
+    /* Secondary */
+    background: #7A3199;
+
+
+    /* Ellipse 93 */
+
+    position: absolute;
+    width: 10px;
+    height: 10px;
+    left: 1134.1px;
+    top: 513.96px;
+
+    /* Secondary */
+    background: #7A3199;
+
+
+    /* Ellipse 34 */
+
+    position: absolute;
+    width: 10px;
+    height: 10px;
+    left: 1194.1px;
+    top: 153.96px;
+
+    /* Secondary */
+    background: #7A3199;
+
+
+    /* Ellipse 44 */
+
+    position: absolute;
+    width: 10px;
+    height: 10px;
+    left: 1194.1px;
+    top: 213.96px;
+
+    /* Secondary */
+    background: #7A3199;
+
+
+    /* Ellipse 54 */
+
+    position: absolute;
+    width: 10px;
+    height: 10px;
+    left: 1194.1px;
+    top: 273.96px;
+
+    /* Secondary */
+    background: #7A3199;
+
+
+    /* Ellipse 64 */
+
+    position: absolute;
+    width: 10px;
+    height: 10px;
+    left: 1194.1px;
+    top: 333.96px;
+
+    /* Secondary */
+    background: #7A3199;
+
+
+    /* Ellipse 74 */
+
+    position: absolute;
+    width: 10px;
+    height: 10px;
+    left: 1194.1px;
+    top: 393.96px;
+
+    /* Secondary */
+    background: #7A3199;
+
+
+    /* Ellipse 84 */
+
+    position: absolute;
+    width: 10px;
+    height: 10px;
+    left: 1194.1px;
+    top: 453.96px;
+
+    /* Secondary */
+    background: #7A3199;
+
+
+    /* Ellipse 94 */
+
+    position: absolute;
+    width: 10px;
+    height: 10px;
+    left: 1194.1px;
+    top: 513.96px;
+
+    /* Secondary */
+    background: #7A3199;
+
+
+    /* Ellipse 35 */
+
+    position: absolute;
+    width: 10px;
+    height: 10px;
+    left: 1254.1px;
+    top: 153.96px;
+
+    /* Secondary */
+    background: #7A3199;
+
+
+    /* Ellipse 45 */
+
+    position: absolute;
+    width: 10px;
+    height: 10px;
+    left: 1254.1px;
+    top: 213.96px;
+
+    /* Secondary */
+    background: #7A3199;
+
+
+    /* Ellipse 55 */
+
+    position: absolute;
+    width: 10px;
+    height: 10px;
+    left: 1254.1px;
+    top: 273.96px;
+
+    /* Secondary */
+    background: #7A3199;
+
+
+    /* Ellipse 65 */
+
+    position: absolute;
+    width: 10px;
+    height: 10px;
+    left: 1254.1px;
+    top: 333.96px;
+
+    /* Secondary */
+    background: #7A3199;
+
+
+    /* Ellipse 75 */
+
+    position: absolute;
+    width: 10px;
+    height: 10px;
+    left: 1254.1px;
+    top: 393.96px;
+
+    /* Secondary */
+    background: #7A3199;
+
+
+    /* Ellipse 85 */
+
+    position: absolute;
+    width: 10px;
+    height: 10px;
+    left: 1254.1px;
+    top: 453.96px;
+
+    /* Secondary */
+    background: #7A3199;
+
+
+    /* Ellipse 95 */
+
+    position: absolute;
+    width: 10px;
+    height: 10px;
+    left: 1254.1px;
+    top: 513.96px;
+
+    /* Secondary */
+    background: #7A3199;
+
+
+    /* Ellipse 36 */
+
+    position: absolute;
+    width: 10px;
+    height: 10px;
+    left: 1314.1px;
+    top: 153.96px;
+
+    /* Secondary */
+    background: #7A3199;
+
+
+    /* Ellipse 46 */
+
+    position: absolute;
+    width: 10px;
+    height: 10px;
+    left: 1314.1px;
+    top: 213.96px;
+
+    /* Secondary */
+    background: #7A3199;
+
+
+    /* Ellipse 56 */
+
+    position: absolute;
+    width: 10px;
+    height: 10px;
+    left: 1314.1px;
+    top: 273.96px;
+
+    /* Secondary */
+    background: #7A3199;
+
+
+    /* Ellipse 66 */
+
+    position: absolute;
+    width: 10px;
+    height: 10px;
+    left: 1314.1px;
+    top: 333.96px;
+
+    /* Secondary */
+    background: #7A3199;
+
+
+    /* Ellipse 76 */
+
+    position: absolute;
+    width: 10px;
+    height: 10px;
+    left: 1314.1px;
+    top: 393.96px;
+
+    /* Secondary */
+    background: #7A3199;
+
+
+    /* Ellipse 86 */
+
+    position: absolute;
+    width: 10px;
+    height: 10px;
+    left: 1314.1px;
+    top: 453.96px;
+
+    /* Secondary */
+    background: #7A3199;
+
+
+    /* Ellipse 96 */
+
+    position: absolute;
+    width: 10px;
+    height: 10px;
+    left: 1314.1px;
+    top: 513.96px;
+
+    /* Secondary */
+    background: #7A3199;
+
+
+    /* everyone-is-smiling-listens-group-people-business-conference-modern-classroom-daytime 1 */
+
+    position: absolute;
+    width: 491px;
+    height: 281px;
+    left: 773px;
+    top: 94px;
+
+    background: url(everyone-is-smiling-listens-group-people-business-conference-modern-classroom-daytime.jpg);
+    border-radius: 10px;
+
+
+    /* group-business-workers-smiling-happy-confident-working-together-with-smile-face-applauding-one-them-office 1 */
+
+    position: absolute;
+    width: 491px;
+    height: 281px;
+    left: 720px;
+    top: 184px;
+
+    background: url(group-business-workers-smiling-happy-confident-working-together-with-smile-face-applauding-one-them-office.jpg);
+    border-radius: 10px;
+
+
+    /* streamline:computer-voice-mail-mic-audio-mike-music-microphone */
+
+    /* Auto layout */
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    align-items: center;
+    padding: 2px 7px;
+    gap: 10px;
+
+    position: absolute;
+    width: 63px;
+    height: 62px;
+    left: 1253.19px;
+    top: 431px;
+
+    background: #FFFFFF;
+    box-shadow: 0px 10px 40px rgba(154, 148, 148, 0.25);
+    border-radius: 5px;
+    transform: rotate(15.14deg);
+
+
+    /* Group */
+
+    width: 35.71px;
+    height: 46.43px;
+
+    transform: rotate(15.14deg);
+
+    /* Inside auto layout */
+    flex: none;
+    order: 0;
+    flex-grow: 0;
+
+
+    /* Vector */
+
+    position: absolute;
+    left: 57.05%;
+    right: 14.6%;
+    top: 21.63%;
+    bottom: 29.41%;
+
+    transform: rotate(15.14deg);
+
+
+    /* Vector */
+
+    position: absolute;
+    left: 33.75%;
+    right: 9.56%;
+    top: 54.01%;
+    bottom: 8.55%;
+
+    transform: rotate(15.14deg);
+
+
+    /* solar:podcast-outline */
+
+    /* Auto layout */
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    padding: 7px 3px;
+    gap: 10px;
+
+    position: absolute;
+    width: 65px;
+    height: 65px;
+    left: 1295px;
+    top: 264.82px;
+
+    background: #FFFFFF;
+    box-shadow: 0px 10px 40px rgba(154, 148, 148, 0.25);
+    border-radius: 5px;
+    transform: rotate(-16.83deg);
+
+
+    /* Vector */
+
+    width: 44.79px;
+    height: 34.39px;
+
+    /* Default/primary */
+    background: linear-gradient(180deg, #7A3199 0%, #161033 100%);
+    transform: rotate(-16.83deg);
+
+    /* Inside auto layout */
+    flex: none;
+    order: 0;
+    flex-grow: 0; */}
